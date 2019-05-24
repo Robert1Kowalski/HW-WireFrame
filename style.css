@@ -6,18 +6,18 @@ body {
  font-size: 18px;   
 }
 
-header {
+.first {
+    background: #ebebeb
 
 }
 
-nav {
+article {
+    color: #ebebeb;
+    background: #777;
 
 }
 
-aside {
-
-}
-
-footer {
-    
+h1 {
+    color: #777;
+    background: #ebebeb
 }
